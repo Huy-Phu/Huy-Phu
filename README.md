@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huy-phu&show_icons=true&locale=en&layout=compact" alt="huy-phu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huy-phu&show_icons=true&locale=en" alt="huy-phu" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huy-phu&" alt="huy-phu" /></p>
