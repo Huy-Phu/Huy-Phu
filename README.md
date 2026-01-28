@@ -24,11 +24,11 @@ const huyPhu = {
 };
 ```
 
-- 🔭 Currently working on **Backend Projects with Node.js & Express**
+- 🔭 Currently working on **Backend Projects with Node.js**
 - 🌱 Learning **System Design, Microservices & Cloud Technologies**
 - 💡 Interested in **Building RESTful APIs & Database Optimization**
 - 👯 Looking to collaborate on **Open Source Backend Projects**
-- 💬 Ask me about **Node.js, Express, SQL, JavaScript**
+- 💬 Ask me about **Node.js, SQL, JavaScript**
 - 📫 Reach me at: **1onelyheart.luv@gmail.com**
 - ⚡ Fun fact: **I think semicolons are optional... but I use them anyway!**
 
