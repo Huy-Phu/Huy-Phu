@@ -97,22 +97,6 @@ const huyPhu = {
 
 ---
 
-## 🎵 Current Vibes
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26cwhhjgopxakk2rqhglxhmgq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/huy-phu/huy-phu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 💭 Dev Quote
 
 <p align="center">
